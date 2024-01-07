@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/percival/rightarm",
+	"textures": {
+		"1": "animated_java:item/percival/percival_grin"
+	}
+}

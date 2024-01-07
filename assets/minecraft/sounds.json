@@ -1,0 +1,452 @@
+{
+	"alttp.beam": {
+		"sounds": [
+			"alttp/beam"
+		]
+	},
+	"alttp.bee": {
+		"sounds": [
+			"alttp/bee"
+		]
+	},
+	"alttp.bigmove": {
+		"sounds": [
+			"alttp/bigmove"
+		]
+	},
+	"alttp.boomerang": {
+		"sounds": [
+			"alttp/boomerang"
+		]
+	},
+	"alttp.boss_death": {
+		"sounds": [
+			"alttp/boss_death"
+		]
+	},
+	"alttp.boss_hit": {
+		"sounds": [
+			"alttp/boss_hit"
+		]
+	},
+	"alttp.bounce": {
+		"sounds": [
+			"alttp/bounce"
+		]
+	},
+	"alttp.break": {
+		"sounds": [
+			"alttp/break"
+		]
+	},
+	"alttp.door_knock": {
+		"sounds": [
+			"alttp/door_knock"
+		]
+	},
+	"alttp.door_open": {
+		"sounds": [
+			"alttp/door_open"
+		]
+	},
+	"alttp.noise_birds_interior": {
+		"sounds": [
+			"alttp/noise_birds_interior"
+		]
+	},
+	"alttp.noise_birds_exterior": {
+		"sounds": [
+			"alttp/noise_birds_exterior"
+		]
+	},
+	"alttp.noise_birds_fadein": {
+		"sounds": [
+			"alttp/noise_birds_fadein"
+		]
+	},
+	"alttp.noise_birds_fadeout": {
+		"sounds": [
+			"alttp/noise_birds_fadeout"
+		]
+	},
+	"alttp.noise_birds_fadein_opening": {
+		"sounds": [
+			"alttp/noise_birds_fadein_opening"
+		]
+	},
+	"alttp.bug_net": {
+		"sounds": [
+			"alttp/bug_net"
+		]
+	},
+	"alttp.dig": {
+		"sounds": [
+			"alttp/dig"
+		]
+	},
+	"alttp.fairy": {
+		"sounds": [
+			"alttp/fairy"
+		]
+	},
+	"alttp.fire_rod": {
+		"sounds": [
+			"alttp/fire_rod"
+		]
+	},
+	"alttp.flap": {
+		"sounds": [
+			"alttp/flap"
+		]
+	},
+	"alttp.game_over": {
+		"sounds": [
+			"alttp/game_over"
+		]
+	},
+	"alttp.hammerpound": {
+		"sounds": [
+			"alttp/hammerpound"
+		]
+	},
+	"alttp.heart": {
+		"sounds": [
+			"alttp/heart"
+		]
+	},
+	"alttp.ice_rod": {
+		"sounds": [
+			"alttp/ice_rod"
+		]
+	},
+	"alttp.keese": {
+		"sounds": [
+			"alttp/keese"
+		]
+	},
+	"alttp.message": {
+		"sounds": [
+			"alttp/message"
+		]
+	},
+	"alttp.cursor": {
+		"sounds": [
+			"alttp/cursor"
+		]
+	},
+	"alttp.lay_bomb": {
+		"sounds": [
+			"alttp/lay_bomb"
+		]
+	},
+	"alttp.lift": {
+		"sounds": [
+			"alttp/lift"
+		]
+	},
+	"alttp.low_hp": {
+		"sounds": [
+			"alttp/low_hp"
+		]
+	},
+	"alttp.magic_powder_a": {
+		"sounds": [
+			"alttp/magic_powder_a"
+		]
+	},
+	"alttp.magic_powder_b": {
+		"sounds": [
+			"alttp/magic_powder_b"
+		]
+	},
+	"alttp.message_finish": {
+		"sounds": [
+			"alttp/message_finish"
+		]
+	},
+	"alttp.pegasus_boots": {
+		"sounds": [
+			"alttp/pegasus_boots"
+		]
+	},
+	"alttp.quake": {
+		"sounds": [
+			"alttp/quake"
+		]
+	},
+	"alttp.ram": {
+		"sounds": [
+			"alttp/ram"
+		]
+	},
+	"alttp.rat": {
+		"sounds": [
+			"alttp/rat"
+		]
+	},
+	"alttp.rupee": {
+		"sounds": [
+			"alttp/rupee"
+		]
+	},
+	"alttp.secret": {
+		"sounds": [
+			"alttp/secret"
+		]
+	},
+	"alttp.shock": {
+		"sounds": [
+			"alttp/shock"
+		]
+	},
+	"alttp.teleport": {
+		"sounds": [
+			"alttp/teleport"
+		]
+	},
+	"alttp.fireball": {
+		"sounds": [
+			"alttp/fireball"
+		]
+	},
+	"alttp.itemget": {
+		"sounds": [
+			"alttp/itemget"
+		]
+	},
+	"alttp.key": {
+		"sounds": [
+			"alttp/key"
+		]
+	},
+	"alttp.heartpiece": {
+		"sounds": [
+			"alttp/heartpiece"
+		]
+	},
+	"alttp.throw": {
+		"sounds": [
+			"alttp/throw"
+		]
+	},
+	"alttp.tink": {
+		"sounds": [
+			"alttp/tink"
+		]
+	},
+	"alttp.wallet": {
+		"sounds": [
+			"alttp/wallet"
+		]
+	},
+	"alttp.zol": {
+		"sounds": [
+			"alttp/zol"
+		]
+	},
+	"alttp.cannonballs": {
+		"sounds": [
+			"alttp/cannonballs"
+		]
+	},
+	"alttpmusic.01-title": {
+		"sounds": [
+			"alttpmusic/01-title"
+		]
+	},
+	"alttpmusic.02-menu": {
+		"sounds": [
+			"alttpmusic/02-menu"
+		]
+	},
+	"alttpmusic.03-beginning": {
+		"sounds": [
+			"alttpmusic/03-beginning"
+		]
+	},
+	"alttpmusic.04-hyrule_castle": {
+		"sounds": [
+			"alttpmusic/04-hyrule_castle"
+		]
+	},
+	"alttpmusic.05-saved_zelda": {
+		"sounds": [
+			"alttpmusic/05-saved_zelda"
+		]
+	},
+	"alttpmusic.06-sanctuary": {
+		"sounds": [
+			"alttpmusic/06-sanctuary"
+		]
+	},
+	"alttpmusic.07-hyrule_field": {
+		"sounds": [
+			"alttpmusic/07-hyrule_field"
+		]
+	},
+	"alttpmusic.08-kakariko_village": {
+		"sounds": [
+			"alttpmusic/08-kakariko_village"
+		]
+	},
+	"alttpmusic.09-guessing_game": {
+		"sounds": [
+			"alttpmusic/09-guessing_game"
+		]
+	},
+	"alttpmusic.10-fortune_teller": {
+		"sounds": [
+			"alttpmusic/10-fortune_teller"
+		]
+	},
+	"alttpmusic.11-kakariko_soldiers": {
+		"sounds": [
+			"alttpmusic/11-kakariko_soldiers"
+		]
+	},
+	"alttpmusic.12-dank_dungeon": {
+		"sounds": [
+			"alttpmusic/12-dank_dungeon"
+		]
+	},
+	"alttpmusic.13-overworld_dungeon": {
+		"sounds": [
+			"alttpmusic/13-overworld_dungeon"
+		]
+	},
+	"alttpmusic.14-boss": {
+		"sounds": [
+			"alttpmusic/14-boss"
+		]
+	},
+	"alttpmusic.15-boss_defeated": {
+		"sounds": [
+			"alttpmusic/15-boss_defeated"
+		]
+	},
+	"alttpmusic.16-rabbit_link": {
+		"sounds": [
+			"alttpmusic/16-rabbit_link"
+		]
+	},
+	"alttpmusic.17-forest_of_mystery": {
+		"sounds": [
+			"alttpmusic/17-forest_of_mystery"
+		]
+	},
+	"alttpmusic.18-master_sword": {
+		"sounds": [
+			"alttpmusic/18-master_sword"
+		]
+	},
+	"alttpmusic.19-priest_of_the_dark_order": {
+		"sounds": [
+			"alttpmusic/19-priest_of_the_dark_order"
+		]
+	},
+	"alttpmusic.20-dark_world": {
+		"sounds": [
+			"alttpmusic/20-dark_world"
+		]
+	},
+	"alttpmusic.21-dark_world_2": {
+		"sounds": [
+			"alttpmusic/21-dark_world_2"
+		]
+	},
+	"alttpmusic.22-darkworld_dungeon": {
+		"sounds": [
+			"alttpmusic/22-darkworld_dungeon"
+		]
+	},
+	"alttpmusic.23-meeting_the_maidens": {
+		"sounds": [
+			"alttpmusic/23-meeting_the_maidens"
+		]
+	},
+	"alttpmusic.24-fairy_theme": {
+		"sounds": [
+			"alttpmusic/24-fairy_theme"
+		]
+	},
+	"alttpmusic.25-release_of_ganon": {
+		"sounds": [
+			"alttpmusic/25-release_of_ganon"
+		]
+	},
+	"alttpmusic.26-ganons_message": {
+		"sounds": [
+			"alttpmusic/26-ganons_message"
+		]
+	},
+	"alttpmusic.27-ganon_battle": {
+		"sounds": [
+			"alttpmusic/27-ganon_battle"
+		]
+	},
+	"alttpmusic.28-triforce": {
+		"sounds": [
+			"alttpmusic/28-triforce"
+		]
+	},
+	"alttpmusic.29-credits": {
+		"sounds": [
+			"alttpmusic/29-credits"
+		]
+	},
+	"entity.generic.explode": {
+        "replace": true,
+        "sounds": [
+			"delta:silent"
+        ]
+    },
+    "delta.entity.generic.explode": {
+        "sounds": [
+            "random/explode1",
+            "random/explode2",
+            "random/explode3",
+            "random/explode4"
+        ],
+        "subtitle": "subtitles.entity.generic.explode"
+    },
+	"test.main1": {
+		"sounds": [
+			"test/main1"
+		]
+	},
+	"test.main2": {
+		"sounds": [
+			"test/main2"
+		]
+	},
+	"test.main3": {
+		"sounds": [
+			"test/main3"
+		]
+	},
+	"test.main4": {
+		"sounds": [
+			"test/main4"
+		]
+	},
+	"test.bg1": {
+		"sounds": [
+			"test/bg1"
+		]
+	},
+	"test.bg2": {
+		"sounds": [
+			"test/bg2"
+		]
+	},
+	"test.bg3": {
+		"sounds": [
+			"test/bg3"
+		]
+	},
+	"test.bg4": {
+		"sounds": [
+			"test/bg4"
+		]
+	}
+}

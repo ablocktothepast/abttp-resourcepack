@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/amara/rightarm",
+	"textures": {
+		"0": "animated_java:item/amara/amara_eyes_closed"
+	}
+}

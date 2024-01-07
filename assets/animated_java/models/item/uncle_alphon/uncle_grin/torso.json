@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/uncle_alphon/torso",
+	"textures": {
+		"1": "animated_java:item/uncle_alphon/uncle_grin",
+		"3": "animated_java:item/uncle_alphon/uncle_grin",
+		"4": "animated_java:item/uncle_alphon/uncle_grin",
+		"5": "animated_java:item/uncle_alphon/uncle_grin"
+	}
+}

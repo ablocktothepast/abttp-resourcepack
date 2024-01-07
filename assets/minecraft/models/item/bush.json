@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "block/sweet_berry_bush_stage3",
+		"particle": "block/sweet_berry_bush_stage3"
+	},
+	"elements": [
+		{
+			"from": [4, 0, -4],
+			"to": [20, 16, -4],
+			"rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#2"},
+				"up": {"uv": [0, 0, 4, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 4, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [-4, 0, 12],
+			"to": [12, 16, 12],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#2"},
+				"up": {"uv": [0, 0, 4, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 4, 0], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-9, -4, 19.25]
+		},
+		"gui": {
+			"translation": [1, 4.5, 0]
+		},
+		"head": {
+			"translation": [-5, 18, 3.5],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/villager_link/head",
+	"textures": {
+		"0": "animated_java:item/villager_link/eyes_left",
+		"3": "animated_java:item/villager_link/eyes_left"
+	}
+}

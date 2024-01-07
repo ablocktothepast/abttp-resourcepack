@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/villager_link/right_arm",
+	"textures": {
+		"0": "animated_java:item/villager_link/eyes_half_closed",
+		"3": "animated_java:item/villager_link/eyes_half_closed",
+		"4": "animated_java:item/villager_link/eyes_half_closed",
+		"5": "animated_java:item/villager_link/eyes_half_closed"
+	}
+}

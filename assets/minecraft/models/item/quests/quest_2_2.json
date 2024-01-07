@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/carrot_on_a_stick",
+  "textures": {
+    "layer0": "minecraft:alttp/quests/quest_2_2"
+  }
+}

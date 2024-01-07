@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/shield"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "item/small_shield"},
+    { "predicate": {"custom_model_data": 2}, "model": "item/magic_shield"},
+    { "predicate": {"custom_model_data": 3}, "model": "item/mirror_shield"},
+    { "predicate": {"custom_model_data": 4}, "model": "item/hylian_shield"}
+  ]
+}

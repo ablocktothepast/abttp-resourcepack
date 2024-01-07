@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/uncle_alphon/head",
+	"textures": {
+		"1": "animated_java:item/uncle_alphon/uncle_eyes_closed",
+		"2": "animated_java:item/uncle_alphon/uncle_eyes_closed",
+		"4": "animated_java:item/uncle_alphon/uncle_eyes_closed",
+		"5": "animated_java:item/uncle_alphon/uncle_eyes_closed"
+	}
+}

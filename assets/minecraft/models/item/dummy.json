@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/armor_stand",
+  "textures": {
+    "layer0": "minecraft:item/dummy"
+  }
+}

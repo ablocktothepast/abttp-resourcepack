@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/melissa/head",
+	"textures": {
+		"1": "animated_java:item/melissa/melissa_eyes_right",
+		"2": "animated_java:item/melissa/melissa_eyes_right"
+	}
+}

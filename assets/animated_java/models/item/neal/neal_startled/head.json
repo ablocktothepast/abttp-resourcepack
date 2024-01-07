@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/neal/head",
+	"textures": {
+		"1": "animated_java:item/neal/neal_startled_face",
+		"2": "animated_java:item/neal/neal_startled_face"
+	}
+}

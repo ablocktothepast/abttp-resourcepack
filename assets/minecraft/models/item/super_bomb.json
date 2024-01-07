@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/scute",
+  "textures": {
+    "layer0": "minecraft:item/super_bomb"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/villager_link/torso",
+	"textures": {
+		"3": "animated_java:item/villager_link/face_normal"
+	}
+}
