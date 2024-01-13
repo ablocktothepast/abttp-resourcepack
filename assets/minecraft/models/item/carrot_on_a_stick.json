@@ -310,6 +310,7 @@
     { "predicate": {"custom_model_data": 312}, "model": "item/npc/erin"},
     { "predicate": {"custom_model_data": 313}, "model": "item/npc/alden"},
     { "predicate": {"custom_model_data": 314}, "model": "item/applebasket"},
-    { "predicate": {"custom_model_data": 315}, "model": "item/applebasket_item"}
+    { "predicate": {"custom_model_data": 315}, "model": "item/applebasket_item"},
+    { "predicate": {"custom_model_data": 316}, "model": "item/questmenu"}
   ]
 }
