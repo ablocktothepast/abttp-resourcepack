@@ -3,22 +3,22 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_half.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_off.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE002"]
         },
         {
@@ -59,43 +59,43 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_end.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE008"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_half_end.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE009"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_off_end.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE010"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_start.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE011"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_half_start.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE012"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:custom/icon_off_start.png",
-            "ascent": -9,
-            "height": 26,
+            "ascent": -4,
+            "height": 32,
             "chars": ["\uE013"]
         },
         {

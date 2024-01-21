@@ -29,6 +29,11 @@
 			"alttp/boss_hit"
 		]
 	},
+	"alttp.quest_update": {
+		"sounds": [
+			"alttp/quest_update"
+		]
+	},
 	"alttp.bounce": {
 		"sounds": [
 			"alttp/bounce"
