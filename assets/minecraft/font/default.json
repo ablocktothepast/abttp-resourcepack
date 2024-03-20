@@ -128,6 +128,34 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/inventory.png",
+            "ascent": 240,
+            "height": 256,
+            "chars": ["\uE018"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/selector.png",
+            "ascent": 240,
+            "height": 240,
+            "chars": ["\uE019"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/selector_diamond.png",
+            "ascent": 240,
+            "height": 240,
+            "chars": ["\uE020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/menubars.png",
+            "ascent": 99,
+            "height": 200,
+            "chars": ["\uE021"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
