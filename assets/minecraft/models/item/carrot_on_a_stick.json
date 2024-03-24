@@ -319,6 +319,7 @@
     { "predicate": {"custom_model_data": 8004}, "model": "item/bm/bg_keys"},
     { "predicate": {"custom_model_data": 8005}, "model": "item/bm/selector"},
     { "predicate": {"custom_model_data": 8006}, "model": "item/bm/selector_diamond"},
+    { "predicate": {"custom_model_data": 8007}, "model": "item/bm/highlight"},
 
     { "predicate": {"custom_model_data": 9001}, "model": "item/quests/quest_2_1"},
     { "predicate": {"custom_model_data": 9002}, "model": "item/quests/quest_2_2"},

@@ -156,6 +156,202 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/transparency.png",
+            "ascent": 240,
+            "height": 256,
+            "chars": ["\uE022"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/equipment.png",
+            "ascent": 240,
+            "height": 256,
+            "chars": ["\uE023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/adventure_status.png",
+            "ascent": 240,
+            "height": 256,
+            "chars": ["\uE024"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/keys.png",
+            "ascent": 240,
+            "height": 256,
+            "chars": ["\uE025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/lamp.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE026"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/boomerang.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE027"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/magical_boomerang.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE028"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/tnt.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE029"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/hookshot.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE030"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bombos_medallion.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/magic_hammer.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE032"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/shovel.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/magic_powder.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bug_catching_net.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/ether_medallion.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/cane_of_byrna.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/cane_of_somaria.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/magic_cape.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE039"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/flute.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE040"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/quake_medallion.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE041"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/fire_rod.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE042"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/ice_rod.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE043"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/locked.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE044"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/empty_bottle.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE045"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/buttons/cancel.png",
+            "ascent": 140,
+            "height": 160,
+            "chars": ["\uE046"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/buttons/left.png",
+            "ascent": 140,
+            "height": 160,
+            "chars": ["\uE047"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/buttons/up.png",
+            "ascent": 140,
+            "height": 160,
+            "chars": ["\uE048"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/buttons/right.png",
+            "ascent": 140,
+            "height": 160,
+            "chars": ["\uE049"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
