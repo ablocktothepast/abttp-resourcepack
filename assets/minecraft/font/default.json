@@ -352,6 +352,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/empty_bomb.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE050"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
