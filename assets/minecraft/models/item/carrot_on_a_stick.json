@@ -312,6 +312,7 @@
     { "predicate": {"custom_model_data": 314}, "model": "item/applebasket"},
     { "predicate": {"custom_model_data": 315}, "model": "item/applebasket_item"},
     { "predicate": {"custom_model_data": 316}, "model": "item/questmenu"},
+    { "predicate": {"custom_model_data": 317}, "model": "item/golden_bee_bottle"},
 
     { "predicate": {"custom_model_data": 8001}, "model": "item/bm/bg_inventory"},
     { "predicate": {"custom_model_data": 8002}, "model": "item/bm/bg_equipment"},

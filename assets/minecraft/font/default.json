@@ -359,6 +359,48 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/magic_life_potion.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE051"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/magic_potion.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE052"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/life_potion.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE053"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/fairy_bottle.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE054"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bee_bottle.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE055"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/golden_bee_bottle.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE056"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
