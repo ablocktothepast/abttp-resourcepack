@@ -401,6 +401,27 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/indicator_1.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE057"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/indicator_2.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE058"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:alttp/menu_textures/menus/indicator_3.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE059"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
