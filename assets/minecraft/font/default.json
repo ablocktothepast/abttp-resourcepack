@@ -422,6 +422,20 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/cryptkey.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": ["\uE060"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/redkey.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": ["\uE061"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
