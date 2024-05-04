@@ -436,6 +436,62 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/pendant_of_courage.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE062"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/pendant_of_power.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE063"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/pendant_of_wisdom.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE064"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/crystal.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE065"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/as_heartpiece1.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE066"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/as_heartpiece2.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE067"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/as_heartpiece3.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE068"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/as_heartpiece4.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE069"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
