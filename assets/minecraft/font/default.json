@@ -492,6 +492,69 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/quiver.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE070"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/tnt.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE071"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/magic_powder.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE072"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/rupee_pouch.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE073"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/pegasus_boots.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE074"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/power_glove.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE075"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/titansmitt.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE076"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/chainmail_boots.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE077"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/heart_of_the_sea.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE078"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
