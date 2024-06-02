@@ -555,6 +555,48 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/icon_water.png",
+            "ascent": -4,
+            "height": 32,
+            "chars": ["\uE079"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon_half_water.png",
+            "ascent": -4,
+            "height": 32,
+            "chars": ["\uE080"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon_end_water.png",
+            "ascent": -4,
+            "height": 32,
+            "chars": ["\uE081"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon_half_end_water.png",
+            "ascent": -4,
+            "height": 32,
+            "chars": ["\uE082"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon_start_water.png",
+            "ascent": -4,
+            "height": 32,
+            "chars": ["\uE083"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon_half_start_water.png",
+            "ascent": -4,
+            "height": 32,
+            "chars": ["\uE084"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
