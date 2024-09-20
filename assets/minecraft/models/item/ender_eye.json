@@ -5,10 +5,8 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 1}, "model": "item/thirdperson_bow"},
-    { "predicate": {"custom_model_data": 2}, "model": "item/arrow"},
-    { "predicate": {"custom_model_data": 3}, "model": "item/spectral_arrow"},
-    { "predicate": {"custom_model_data": 4}, "model": "item/arrow_fire"},
-    { "predicate": {"custom_model_data": 5}, "model": "item/arrow_ice"},
-    { "predicate": {"custom_model_data": 6}, "model": "item/arrow_bomb"}
+    { "predicate": {"custom_model_data": 2}, "model": "item/quiver_1"},
+    { "predicate": {"custom_model_data": 3}, "model": "item/quiver_2"},
+    { "predicate": {"custom_model_data": 4}, "model": "item/quiver_3"}
   ]
 }

@@ -513,13 +513,6 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/rupee_pouch.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE073"]
-        },
-        {
-            "type": "bitmap",
             "file": "minecraft:item/pegasus_boots.png",
             "ascent": 16,
             "height": 16,
@@ -594,6 +587,34 @@
             "ascent": -4,
             "height": 32,
             "chars": ["\uE084"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bag1.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE085"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bag2.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE086"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bag3.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE087"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bag4.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE088"]
         },
         {
             "type": "bitmap",
