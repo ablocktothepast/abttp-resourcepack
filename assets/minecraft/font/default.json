@@ -618,6 +618,20 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/dialoguebars_choice.png",
+            "ascent": 240,
+            "height": 800,
+            "chars": ["\uE089"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/dialoguebars_empty.png",
+            "ascent": 240,
+            "height": 800,
+            "chars": ["\uE090"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
