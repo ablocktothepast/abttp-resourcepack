@@ -121,8 +121,8 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/dialoguebars.png",
-            "ascent": 240,
+            "file": "minecraft:custom/dialoguebars_2.png",
+            "ascent": 140,
             "height": 800,
             "chars": ["\uE017"]
         },
@@ -618,17 +618,38 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/dialoguebars_choice.png",
-            "ascent": 240,
+            "file": "minecraft:custom/dialoguebars_choice_3.png",
+            "ascent": 242,
             "height": 800,
             "chars": ["\uE089"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/dialoguebars_empty.png",
-            "ascent": 240,
+            "file": "minecraft:custom/dialoguebars_empty_3.png",
+            "ascent": 242,
             "height": 800,
             "chars": ["\uE090"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/mouse_left.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\uE091"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/dialoguebars_3.png",
+            "ascent": 242,
+            "height": 800,
+            "chars": ["\uE092"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/mouse_scroll.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\uE093"]
         },
         {
             "type": "bitmap",
